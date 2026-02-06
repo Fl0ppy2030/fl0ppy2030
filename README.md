@@ -21,7 +21,7 @@ I’ve been working with music production for years, exploring sound as a form o
 I enjoy learning by doing — building scripts, automations, and small projects that solve real problems or spark creative ideas. I’m especially curious about how data, code, and art can come together to create meaningful tools and experiences.
 
 
-  - ⚡ When I’m not producing music or studying data, I’m usually experimenting with new ideas, learning new skills, or exploring creative and technical intersections. \o/
+  - ⚡ When I’m not producing music or studying data, I’m usually experimenting with new ideas, learning new skills, or exploring creative and technical intersections.
 </details>
 
 <!-- Links -->
