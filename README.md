@@ -8,8 +8,6 @@
 <p>
   Hi, I'm Fl0ppy! I’m a music producer and Data Science student from Brazil.
 
-  - 🌱 I’m currently studying Data Science and Computer Science at Harvard <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
-
   - 🔭 I love blending creativity and logic — turning ideas into sound, and data into insights.
 </p>
 
